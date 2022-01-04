@@ -2,7 +2,7 @@
   "name": "com.passivepicasso.bepinexkit",
   "version": "0.0.1",
   "displayName": "BepInExKit",
-  "description": "A collection of PipelineJobs to provide advanced workflows for utilizing assets out of built game files without causing redistribution",
+  "description": "A collection of utilities to help with the installation, setup, creation, development, testing and deployment of BepInEx mods",
   "unity": "2018.4",
   "release": "16f1",
   "author": {
