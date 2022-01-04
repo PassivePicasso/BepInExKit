@@ -2,10 +2,10 @@
 
 ### Introduction
 
-BepInEx Kit is an extension for ThunderKit that simplifies the process of getting started making mods for a Unity Game using BepInEx
+BepInEx Kit is an extension for ThunderKit that simplifies the process of creating BepInEx Plugins for Unity Games
 
 ### Features
-* Provides ThunderKit Templates for Manifest, Pipelines, and PathReferences for automating BepInEx mod development, deployment and testing.
+* Provides a Template Manifest as well as Pipelines and PathReferences for automating BepInEx Plugin deployment and testing.
 * Provides Wizard for installing BepInEx into the project
 * Provides Wizard for creating a new BepInEx Mod Project
 * ManifestDatum to automate managing Mod Version

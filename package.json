@@ -1,8 +1,8 @@
 {
   "name": "com.passivepicasso.bepinexkit",
   "version": "0.0.1",
-  "displayName": "BepInExKit",
-  "description": "A collection of utilities to help with the installation, setup, creation, development, testing and deployment of BepInEx mods",
+  "displayName": "BepInEZKit",
+  "description": "BepInEZKit is an extension for ThunderKit that simplifies the process of creating BepInEx Plugins for Unity Games",
   "unity": "2018.4",
   "release": "16f1",
   "author": {
