@@ -65,5 +65,10 @@ namespace <ModName> {
 }
 ```
 ***
+
+### Config File Deployment
+* Add a solution to simplify the usage of config files, their modification, and their deplyoment
+
+***
 ### Limitations
 * Does not currently support IL2CPP as IL2CPP features have not been built out in ThunderKit
